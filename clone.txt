@@ -1,0 +1,16 @@
+<html>
+<title>
+<body>
+<head> clone the reository</head>
+<h1> clone repo</h1>
+<div>
+<label type="text" >Enter your name</label>
+<input type="text"  id="text" placeholder="Username" name="text" >
+</div>
+<div>
+<label type="pwd" >Enter your password</label>
+<input type="pwd"  id="pwd" placeholder="Password" name="pwd" min="8" max="32" /required >
+</div>
+<input type="Submit">
+</body>
+</html>
